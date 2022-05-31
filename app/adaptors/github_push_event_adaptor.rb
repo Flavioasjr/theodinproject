@@ -15,3 +15,5 @@ class GithubPushEventAdaptor
 
   attr_reader :payload
 end
+
+
